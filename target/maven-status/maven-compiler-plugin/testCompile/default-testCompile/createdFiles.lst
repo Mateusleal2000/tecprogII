@@ -1,0 +1,5 @@
+br\ufc\tpii\vmsys\exceptions\VmSysExceptionsTest.class
+br\ufc\tpii\vmsys\inventory\exceptions\ItemExceptionsTest.class
+br\ufc\tpii\vmsys\VendingMachineTest.class
+br\ufc\tpii\vmsys\inventory\ItemTest.class
+br\ufc\tpii\vmsys\inventory\InventoryTest.class
